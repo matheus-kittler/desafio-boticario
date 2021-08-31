@@ -23,6 +23,10 @@ e
 
 [Executar um app no Android Emulator](https://developer.android.com/studio/run/emulator?hl=pt-br)
 
+Também disponibilizei a versão no App Distribution do Firebase
+
+[App Distribution](https://appdistribution.firebase.dev/i/30e2deb1e193ad12)
+
 # Arquitetura e Frameworks
 
 Projeto com arquitetura MVVM onde estão sendo utilizando as bibliotecas Retrofit, Koin para injeção de dependência, Glide e Fragmets Extensions.
