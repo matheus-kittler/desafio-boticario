@@ -25,7 +25,7 @@ e
 
 Também disponibilizei a versão no App Distribution do Firebase
 
-[App Distribution](https://appdistribution.firebase.dev/i/30e2deb1e193ad12)
+[App Distribution](https://appdistribution.firebase.dev/i/4ad9c0c62e7bf1fd)
 
 # Arquitetura e Frameworks
 
