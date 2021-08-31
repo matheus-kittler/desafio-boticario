@@ -23,9 +23,11 @@ e
 
 [Executar um app no Android Emulator](https://developer.android.com/studio/run/emulator?hl=pt-br)
 
-Também disponibilizei a versão no App Distribution do Firebase
+# Disponibilização
 
-[App Distribution](https://appdistribution.firebase.dev/i/4ad9c0c62e7bf1fd)
+Também deixei um link no Google Drive para baixar a apk do app
+
+[App in Drive](https://drive.google.com/drive/u/0/folders/1-3QEiJU3i2G9nYZMBk1FMSYYIMW0PO9L)
 
 # Arquitetura e Frameworks
 
