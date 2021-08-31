@@ -25,9 +25,12 @@ e
 
 # Disponibilização
 
-Também deixei um link no Google Drive para baixar a apk do app
+Também deixei um link no Google Drive para baixar a apk do app, no App Distribution do Firebase
 
 [App in Drive](https://drive.google.com/drive/u/0/folders/1-3QEiJU3i2G9nYZMBk1FMSYYIMW0PO9L)
+
+[App Distribution](https://appdistribution.firebase.dev/i/4ad9c0c62e7bf1fd)
+
 
 # Arquitetura e Frameworks
 
