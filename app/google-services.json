@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "833528415162",
+    "project_id": "app-boticario",
+    "storage_bucket": "app-boticario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833528415162:android:2d5a987fef7e476d1ed383",
+        "android_client_info": {
+          "package_name": "kittler.matheus.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833528415162-8tgc8ctm69mjrqb95g5v1snl1mv6c8gd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kittler.matheus.test",
+            "certificate_hash": "f3d493f9e78cae7ebfc56346385e4779d8323ce8"
+          }
+        },
+        {
+          "client_id": "833528415162-hktejrg5quh641i8mtqrmgj4cupjafoh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSdKtihndsb3qVxaxM5pPDEgZMWRmUpSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833528415162-hktejrg5quh641i8mtqrmgj4cupjafoh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
